@@ -1,0 +1,1 @@
+angular2-inline  / Bootstrap v4 Snippets  / Path Intellisense  /  Prettier - Code formatter / Angular Snippets (Version 8) /  Angular Language Service
